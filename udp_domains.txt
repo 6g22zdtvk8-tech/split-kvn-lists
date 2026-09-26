@@ -1,0 +1,23 @@
+# =============================================================================
+# Domain list for UDP-only VPN routing
+# TCP traffic to these domains goes directly (bypasses VPN)
+# Use for: QUIC, video calls, games, messengers
+# =============================================================================
+
+
+
+# === Discord (voice/video) ===
+discord.com
+discordapp.com
+discord.gg
+discord.media
+
+# === Video calls ===
+zoom.us
+zoom.com
+meet.google.com
+
+# === Games ===
+steamcontent.com
+epicgames.com
+
