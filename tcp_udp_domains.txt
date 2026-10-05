@@ -498,6 +498,8 @@ z-lib.org
 goodreads.com
 gr-assets.com
 themoviedb.org
+tmdb.org
+tmdb-image-prod.b-cdn.net
 imdb.com
 rottentomatoes.com
 metacritic.com
