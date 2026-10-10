@@ -654,3 +654,5 @@ modaoperandi.com
 #robloxcorp.s.llnwi.net
 #cdn.arkoselabs.com
 #roblox-api.arkoselabs.com
+aade.gr
+gsis.gr
