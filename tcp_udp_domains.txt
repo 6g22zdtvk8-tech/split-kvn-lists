@@ -656,3 +656,11 @@ modaoperandi.com
 #roblox-api.arkoselabs.com
 aade.gr
 gsis.gr
+figma.com
+iterm2.com
+anydesk.com
+bin.entware.net
+getringo.com
+deeplex.cc
+rumafia.io
+nrz.monster
